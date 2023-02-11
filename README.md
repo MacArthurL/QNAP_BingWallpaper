@@ -1,7 +1,9 @@
 # QNAP_BingWallpaper
 威联通(QNAP)实现自动将登陆界面和桌面背景更换为每日Bing壁纸
 
-参考了两位大佬的代码，一是群晖的美化代码：https://github.com/shenhaiyu/DSM_Login_BingWallpaper，另一个是威联通的bingwallpaper套件：https://github.com/Jay-Young/qpkg
+参考了两位大佬的代码，一是群晖的美化代码：https://github.com/shenhaiyu/DSM_Login_BingWallpaper
+
+另一个是威联通的bingwallpaper套件：https://github.com/Jay-Young/qpkg
 
 Bingwallpaper套件版只能更换登陆界面，通过google检索后发现个人桌面保存路径为/share/CACHEDEV1_DATA/.qos_bgImg/$username/cumsImg.jpg（453bmini机型）
 
