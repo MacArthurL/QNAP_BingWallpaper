@@ -12,3 +12,5 @@ Bingwallpaper套件版只能更换登陆界面，通过google检索后发现个�
 威联通更改计划任务方式为：SSH连接后，获取root权限后，通过vi /etc/config/crontab进行编辑，计划任务为 0 0,4 * * * sh /share/Public/ChangeBing.sh > /dev/null 2>&1，其中/share/Public/ChangeBing.sh需要更换为美化文件上传路径。
 
 重启crontab即可，crontab /etc/config/crontab && /etc/init.d/crond.sh restart
+
+# 有空就优化
