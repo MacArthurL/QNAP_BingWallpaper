@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #设置拥有图片权限的用户名
-username="lihouyuan271813"
+username="username"
 #设置桌面桌布路径
 userbkg="/share/CACHEDEV1_DATA/.qos_bgImg/$username/cumsImg.jpg"
 #如需将图片保存到指定路径，就去掉下面注释设置保存文件夹路径（在 FileStation 里面右键文件夹属性可以看到路径）
